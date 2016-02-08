@@ -1,0 +1,55 @@
+I:\My Project's Final Code\Project LBM with Report\Project Librari Management\bin\Debug\Project Librari Management.exe.config
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\bin\Debug\Project Librari Management.exe.config
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\bin\Debug\Project Librari Management.exe.manifest
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\bin\Debug\Project Librari Management.application
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\bin\Debug\Project Librari Management.exe
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\bin\Debug\Project Librari Management.pdb
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\bin\Debug\ExcelLibrary.dll
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\bin\Debug\itextsharp.dll
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\bin\Debug\itextsharp.pdfa.dll
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\bin\Debug\itextsharp.xtra.dll
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\bin\Debug\itextsharp.xml
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.BalanceCalculationUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.BalanceUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.BanglaQueryUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.CalculateUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.CashAdjustUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.ChangeUserAndPasswordUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.DeliveryReportUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.DueRecord.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.DueReportUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.LibraryManagementUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.Properties.Resources.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.HolidayCounterUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.HomeUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.ImportExcelDataUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.IncomeRecord.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.InvestmentUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.InvoiceUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.LogInUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.MainMenuUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.OrderReportUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.OrderUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.PaidUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.PhotocopyIncomeEnteryUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.QuantitySelect.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.ReportDeliveryUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.SearchAndEdit.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.SellReprotUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.ShowOrders.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.ShowOrderUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.ShowSelfOrderUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.SimpleCalculationUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.SummaryUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.TestUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.TodayOrderUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.UpdateAndSellUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.UpdateUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.ViewDueRecordUI.resources
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project Librari Management.exe.manifest
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project Librari Management.application
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project Librari Management.exe
+I:\My Project's Final Code\Library Management\Project LBM with Report\Project Librari Management\obj\x86\Debug\Project Librari Management.pdb

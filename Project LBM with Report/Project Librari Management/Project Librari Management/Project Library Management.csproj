@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D1281FBF-6C8E-4161-A607-EACCB6E32EF0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Project_Librari_Management</RootNamespace>
+    <AssemblyName>Project Librari Management</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\DBManager.cs" />
+    <Compile Include="DAL\DAO\Book.cs" />
+    <Compile Include="DAL\DAO\customerName.cs" />
+    <Compile Include="DAL\DAO\Invest.cs" />
+    <Compile Include="DAL\DAO\Order.cs" />
+    <Compile Include="DAL\DAO\RecordDue.cs" />
+    <Compile Include="DAL\DAO\SelfOrder.cs" />
+    <Compile Include="DAL\Gateway\BookGateway.cs" />
+    <Compile Include="DAL\Gateway\DBGateway.cs" />
+    <Compile Include="DAL\Gateway\InvestmentGateway.cs" />
+    <Compile Include="DAL\Gateway\MatchUserAndPassword.cs" />
+    <Compile Include="DAL\Gateway\OrderGateway.cs" />
+    <Compile Include="DAL\Gateway\RecordDueGateway.cs" />
+    <Compile Include="DAL\Gateway\SelfOrderGateway.cs" />
+    <Compile Include="UI\BalanceCalculationUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\BalanceCalculationUI.Designer.cs">
+      <DependentUpon>BalanceCalculationUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\BalanceUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\BalanceUI.Designer.cs">
+      <DependentUpon>BalanceUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CashAdjustUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CashAdjustUI.Designer.cs">
+      <DependentUpon>CashAdjustUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ChangeUserAndPasswordUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ChangeUserAndPasswordUI.Designer.cs">
+      <DependentUpon>ChangeUserAndPasswordUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DeliveryReportUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DeliveryReportUI.Designer.cs">
+      <DependentUpon>DeliveryReportUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DueRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DueRecord.Designer.cs">
+      <DependentUpon>DueRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\HolidayCounterUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\HolidayCounterUI.Designer.cs">
+      <DependentUpon>HolidayCounterUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\IncomeRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\IncomeRecord.Designer.cs">
+      <DependentUpon>IncomeRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\InvestmentUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\InvestmentUI.Designer.cs">
+      <DependentUpon>InvestmentUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\LogInUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\LogInUI.Designer.cs">
+      <DependentUpon>LogInUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\MainMenuUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\MainMenuUI.Designer.cs">
+      <DependentUpon>MainMenuUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\OrderUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\OrderUI.Designer.cs">
+      <DependentUpon>OrderUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\PaidUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\PaidUI.Designer.cs">
+      <DependentUpon>PaidUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\PhotocopyIncomeEnteryUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\PhotocopyIncomeEnteryUI.Designer.cs">
+      <DependentUpon>PhotocopyIncomeEnteryUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\QuantitySelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\QuantitySelect.Designer.cs">
+      <DependentUpon>QuantitySelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SearchAndEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SearchAndEdit.Designer.cs">
+      <DependentUpon>SearchAndEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ShowOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ShowOrders.Designer.cs">
+      <DependentUpon>ShowOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ShowOrderUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ShowOrderUI.Designer.cs">
+      <DependentUpon>ShowOrderUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ShowSelfOrderUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ShowSelfOrderUI.Designer.cs">
+      <DependentUpon>ShowSelfOrderUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SummaryUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SummaryUI.Designer.cs">
+      <DependentUpon>SummaryUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\UpdateAndSellUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\UpdateAndSellUI.Designer.cs">
+      <DependentUpon>UpdateAndSellUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\UpdateUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\UpdateUI.Designer.cs">
+      <DependentUpon>UpdateUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ViewDueRecordUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ViewDueRecordUI.Designer.cs">
+      <DependentUpon>ViewDueRecordUI.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\BalanceCalculationUI.resx">
+      <DependentUpon>BalanceCalculationUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\BalanceUI.resx">
+      <DependentUpon>BalanceUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\CashAdjustUI.resx">
+      <DependentUpon>CashAdjustUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ChangeUserAndPasswordUI.resx">
+      <DependentUpon>ChangeUserAndPasswordUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DeliveryReportUI.resx">
+      <DependentUpon>DeliveryReportUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DueRecord.resx">
+      <DependentUpon>DueRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI\HolidayCounterUI.resx">
+      <DependentUpon>HolidayCounterUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\IncomeRecord.resx">
+      <DependentUpon>IncomeRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\InvestmentUI.resx">
+      <DependentUpon>InvestmentUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\LogInUI.resx">
+      <DependentUpon>LogInUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\MainMenuUI.resx">
+      <DependentUpon>MainMenuUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\OrderUI.resx">
+      <DependentUpon>OrderUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\PaidUI.resx">
+      <DependentUpon>PaidUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\PhotocopyIncomeEnteryUI.resx">
+      <DependentUpon>PhotocopyIncomeEnteryUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\QuantitySelect.resx">
+      <DependentUpon>QuantitySelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SearchAndEdit.resx">
+      <DependentUpon>SearchAndEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ShowOrders.resx">
+      <DependentUpon>ShowOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ShowOrderUI.resx">
+      <DependentUpon>ShowOrderUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ShowSelfOrderUI.resx">
+      <DependentUpon>ShowSelfOrderUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SummaryUI.resx">
+      <DependentUpon>SummaryUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\UpdateAndSellUI.resx">
+      <DependentUpon>UpdateAndSellUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\UpdateUI.resx">
+      <DependentUpon>UpdateUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ViewDueRecordUI.resx">
+      <DependentUpon>ViewDueRecordUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\andidas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\00 %2816%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

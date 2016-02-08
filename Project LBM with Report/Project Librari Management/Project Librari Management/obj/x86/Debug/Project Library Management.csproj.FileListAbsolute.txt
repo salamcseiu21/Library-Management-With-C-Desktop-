@@ -1,0 +1,32 @@
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\bin\Debug\Project Librari Management.exe
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\bin\Debug\Project Librari Management.pdb
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.BalanceUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.ChangeUserAndPasswordUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.DeliveryReportUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.DueRecord.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.LibraryManagementUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.Properties.Resources.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.IncomeRecord.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.InvestmentUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.LogInUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.MainMenuUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.OrderUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.PaidUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.QuantitySelect.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.SearchAndEdit.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.ShowOrders.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.ShowOrderUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.SummaryUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.UpdateAndSellUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.UpdateUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.ViewDueRecordUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project Librari Management.exe
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project Librari Management.pdb
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.PhotocopyIncomeEnteryUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.BalanceCalculationUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.ShowSelfOrderUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.CashAdjustUI.resources
+I:\C# Application Vission-12Feb\Project Librari Management\Project Librari Management\obj\x86\Debug\Project_Librari_Management.UI.HolidayCounterUI.resources
